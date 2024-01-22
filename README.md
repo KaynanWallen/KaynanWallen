@@ -33,6 +33,7 @@
 
 ###
 
-<p align="left">[Portifólio] (google.com)</p>
+[Portifólio](https://meuportfolio-jet.vercel.app)
+[Libre-Tec C#](https://github.com/KaynanWallen/LibreTec-2.0)
 
 ###
