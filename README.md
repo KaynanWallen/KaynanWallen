@@ -33,7 +33,7 @@
 
 ###
 
-#[Portifólio](https://meuportfolio-jet.vercel.app)
-#[Libre-Tec C#](https://github.com/KaynanWallen/LibreTec-2.0)
+[Portifólio](https://meuportfolio-jet.vercel.app) </br>
+[Libre-Tec C#](https://github.com/KaynanWallen/LibreTec-2.0)
 
 ###
